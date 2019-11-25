@@ -2,6 +2,6 @@
 a simulation in processing of game sheep wolf and cabbage
 
 # Setup
-download all files.
-start the processing environment.
-Run the main file.
+1.download all files.
+2.start the processing environment.
+3.Run the main file.
